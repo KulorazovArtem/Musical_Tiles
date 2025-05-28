@@ -11,6 +11,9 @@ namespace MusicalTiles
         /// <summary>
         /// Главная точка входа для приложения.
         /// </summary>
+        /// 
+
+        ///sjtydhmjcf
         [STAThread]
         static void Main()
         {
